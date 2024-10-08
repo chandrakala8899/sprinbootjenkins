@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b8a0b3a-e491-41c8-aead-376ebd789c4d" name="Changes" comment="jenkinsdemo">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/neoteric/springbootjenkinsdemo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/neoteric/springbootjenkinsdemo/App.java" afterDir="false" />
     </list>
@@ -70,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728191280634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jenkinsdemo">
+      <option name="closed" value="true" />
+      <created>1728369364801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728369364801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
