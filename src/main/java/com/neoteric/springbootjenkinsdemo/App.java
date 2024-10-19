@@ -1,6 +1,6 @@
 package com.neoteric.springbootjenkinsdemo;
 public class App {
     public static void main( String[] args ){
-      System.out.println( "Hello World from spring boot with docker demo" );
+      System.out.println( "Hello World " );
     }
 }
