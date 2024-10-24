@@ -5,7 +5,7 @@ public class HelloWorld {
       try {
 
       }catch (Exception e){
-
+          System.out.println(" exception occured");
       }
 
     }
